@@ -2,7 +2,7 @@
 
 ## What is Tactical Data Engagement?
 
-Tactical Data Engagement is a four-step method for governments to facilitate impactful community use of open data.
+#### Tactical Data Engagement is a four-step method for governments to facilitate impactful community use of open data.
 
 This guide puts forth a vision forTactical Data Engagement \(TDE\), a method based on core concepts of [human-centered design](https://en.wikipedia.org/wiki/Human-centered_design) and [tactical urbanism](https://issuu.com/streetplanscollaborative/docs/tactical_urbanism_vol_2_final), with steps that guide city officials in carrying out interventions that facilitate the community use of open data for local impact. This approach goes beyond basic resident engagement. It seeks to make open data programs more transparent, accountable, and participatory by challenging city halls to actively help residents use open data to better their communities.
 
@@ -12,7 +12,7 @@ Readers can carry out each of these steps “tactically” — using lightweight
 
 ## Who should use Tactical Data Engagement?
 
-The primary audiences for this guide are city officials and other public servants who want to work with community actors to get more value out of open data and information.
+#### The primary audiences for this guide are city officials and other public servants who want to work with community actors to get more value out of open data and information.
 
 The TDE method isprimarilyfor city officials who want to help residents generate impact and success stories using open data. However, this guide is also designed to be adaptable to meet the needs of a broad range of readers.
 
@@ -23,7 +23,4 @@ If you’re an advocate, researcher, librarian, or organizer who wants to incorp
 This broad applicability stems from TDE’s lightweight and adaptable tactics. The tactics are designed to be used by readers who are tight on time and resources. Tactics can be applied to align with on-going activities and strategies, and they range in the level of effort and impact, thus providing options for governments with varying technical, data, or outreach capacity.
 
 Whoever you are, we hope you enjoy reading about the TDE method, and are able to put our tactics to work!
-
-  
-
 
