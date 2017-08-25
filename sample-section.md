@@ -10,6 +10,17 @@ Our vision is that city halls and other governments will use Tactical Data Engag
 
 This guide’s approach to facilitating the community use of open data is, at its core, about putting radical value in residents’ needs and in the outcomes that governments and residents can achieve when working transparently to use open data. This guide encourages readers to ask: What can governmentsdoto actively facilitate opportunities for open data use in communities? Where are information gaps that governments might help to close? And how can government become an equal partner with residents in leveraging open data for community impact?
 
-  
 
+
+> **“No other expertise can substitute for locality knowledge”**
+>
+> —**Jane Jacobs**
+
+![](https://lh5.googleusercontent.com/hr2xfL8kHUptuTRff9_2tYFaR2ExyaRjL2MZNAWzOK_8XOcPBBiVxBkpVGYkPmPAXYuhdxXHIvTDONRLatWNK_woEl5923LiUNoV3g-QxaroyGew93h_1GmbsnuguPh78PuHBOuk "Paper Gear Footer.png")**  
+**
+
+![](https://lh5.googleusercontent.com/LzQkLozVWWWu7FF6N4pnbDgZbmfstH22SrmIvMo0Fv74UYUOWPy02ii-jY4Oq5fqN6txqaxKWUWxekkNsiazagdHgZ1FJa-C_zl_ksFs-KK8_ir5Q96JeCYEWP4wwSulTkwVfmed "WhyBecomeAWhatWorksCity.png")
+
+**  
+**
 
