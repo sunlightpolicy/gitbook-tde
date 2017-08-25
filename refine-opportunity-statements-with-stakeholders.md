@@ -1,4 +1,4 @@
-# 2.Refine opportunity statements with stakeholders.
+# 2. Refine opportunity statements with stakeholders.![](https://lh6.googleusercontent.com/l_9_gHuhAOrmD3Rv3k9UkbfdtbDsIeI0mcR4MJPf2juUCla-Mr6vXRd7fdAUmXq3OyOp03tjZumfnHJhQWNPTPWHjenDtILMLKdJaEhqCfdwiCx_GZxXt0STeERPIwEPFsyBzj2G "Screen Shot 2017-07-18 at 5.19.16 PM.png")
 
 **THE ACTION:** Collect context and information from specific stakeholders to narrow your focus area down to detailed scenarios that expose opportunities to support the use of open data.
 
@@ -9,12 +9,6 @@
 An opportunity statement should capture details about a specific scenario in which stakeholders have expressed an opportunity for you to help them better use open data. It’s not just a problem statement, it’s a more descriptive and fully-formed view of the granular scenarios in which stakeholders want to use open data within your focus area. Working with stakeholders to develop detailed descriptions of their data use scenarios will help you clarify the opportunity that will drive your TDE work forward. It ensures that the intervention that eventuallysupportsyour expressed opportunity for community use of open data has end users and addresses actual community needs.
 
 Focus area stakeholders are experts in their own neighborhoods, communities, and challenges, and listening to their knowledge on specific local issues will help refine the details around specific opportunities. Hearing about their data use scenarios and incorporating their thoughts into what you determine are “promising” opportunity statements will help residents feel like their experiences matter in ultimately crafting a TDE intervention. To complete this step, you should choose to build opportunity statements off of data use scenarios with particularly strong community partner support, strong resident interest, or obviously relevant gaps in information or data.
-
-  
-
-
-  
-
 
 ### Tactics to help you Refine with collaborators:
 
