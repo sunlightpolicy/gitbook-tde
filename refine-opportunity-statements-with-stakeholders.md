@@ -1,4 +1,4 @@
-# 2. Refine opportunity statements with stakeholders.![](https://lh6.googleusercontent.com/l_9_gHuhAOrmD3Rv3k9UkbfdtbDsIeI0mcR4MJPf2juUCla-Mr6vXRd7fdAUmXq3OyOp03tjZumfnHJhQWNPTPWHjenDtILMLKdJaEhqCfdwiCx_GZxXt0STeERPIwEPFsyBzj2G "Screen Shot 2017-07-18 at 5.19.16 PM.png")
+# 2. _Refine_ opportunity statements with stakeholders.![](https://lh6.googleusercontent.com/l_9_gHuhAOrmD3Rv3k9UkbfdtbDsIeI0mcR4MJPf2juUCla-Mr6vXRd7fdAUmXq3OyOp03tjZumfnHJhQWNPTPWHjenDtILMLKdJaEhqCfdwiCx_GZxXt0STeERPIwEPFsyBzj2G "Screen Shot 2017-07-18 at 5.19.16 PM.png")
 
 **THE ACTION:** Collect context and information from specific stakeholders to narrow your focus area down to detailed scenarios that expose opportunities to support the use of open data.
 

@@ -1,4 +1,4 @@
-# 3. Design a plan with intended users.![](https://lh6.googleusercontent.com/x6Ar9x3bVpSO5rTJGyJ4D3d_MgLsrOpB0RDsMSHvudR5dpmfr0h_kU6gzXxcnwPSVd1QyATigQOnajeo8P1vyWvtC1t3DNJXfl6rm93bQW81B6UhY2caCCD-wTk0no8mqsw9TLCX "Screen Shot 2017-07-18 at 5.19.26 PM.png")
+# 3. _Design_ a plan with intended users.![](https://lh6.googleusercontent.com/x6Ar9x3bVpSO5rTJGyJ4D3d_MgLsrOpB0RDsMSHvudR5dpmfr0h_kU6gzXxcnwPSVd1QyATigQOnajeo8P1vyWvtC1t3DNJXfl6rm93bQW81B6UhY2caCCD-wTk0no8mqsw9TLCX "Screen Shot 2017-07-18 at 5.19.26 PM.png")
 
 _\*Note: You are not carrying out an intervention in this step, but rather putting together the specifics of the plan that you will carry out. You will need to know the _[_implementation tactics_](https://docs.google.com/document/d/1YYwrMM_-8vMEAQ-GHPzdm6as4PLPDJG_0F36uje4nr4/edit#heading=h.rrcffgq50mqz)_ and plan ahead accordingly if you plan to carry out an implementation tactic._
 
