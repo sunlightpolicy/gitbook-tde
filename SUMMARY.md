@@ -1,5 +1,6 @@
 # Summary
 
+* [Home](home.md)
 * [Preface](sample-section.md)
 * [Introduction](README.md)
 * [How-To](how-to.md)
