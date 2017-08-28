@@ -10,6 +10,5 @@
   * [4. Implement](implement.md)
 * [Resources](resources.md)
   * [Criteria for 'Find' tactics](criteria-for-find-tactics.md)
-
-
+* [Worksheet to 'Refine' an opportunity](worksheet-to-refine-an-opportunity.md)
 
