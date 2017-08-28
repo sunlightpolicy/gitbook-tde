@@ -4,7 +4,7 @@
 
 #### Tactical Data Engagement is a four-step method for governments to facilitate impactful community use of open data.
 
-This guide puts forth a vision forTactical Data Engagement \(TDE\), a method based on core concepts of [human-centered design](https://en.wikipedia.org/wiki/Human-centered_design) and [tactical urbanism](https://issuu.com/streetplanscollaborative/docs/tactical_urbanism_vol_2_final), with steps that guide city officials in carrying out interventions that facilitate the community use of open data for local impact. This approach goes beyond basic resident engagement. It seeks to make open data programs more transparent, accountable, and participatory by challenging city halls to actively help residents use open data to better their communities.
+This guide puts forth a vision for Tactical Data Engagement \(TDE\), a method based on core concepts of [human-centered design](https://en.wikipedia.org/wiki/Human-centered_design) and [tactical urbanism](https://issuu.com/streetplanscollaborative/docs/tactical_urbanism_vol_2_final), with steps that guide city officials in carrying out interventions that facilitate the community use of open data for local impact. This approach goes beyond basic resident engagement. It seeks to make open data programs more transparent, accountable, and participatory by challenging city halls to actively help residents use open data to better their communities.
 
 The four steps outlined in this guide lead the reader to complete a resident-informed project, product, or tool that supports the community use of data.
 
@@ -23,7 +23,4 @@ If you’re an advocate, researcher, librarian, or organizer who wants to incorp
 This broad applicability stems from TDE’s lightweight and adaptable tactics. The tactics are designed to be used by readers who are tight on time and resources. Tactics can be applied to align with on-going activities and strategies, and they range in the level of effort and impact, thus providing options for governments with varying technical, data, or outreach capacity.
 
 Whoever you are, we hope you enjoy reading about the TDE method, and are able to put our tactics to work!
-
-  
-
 
