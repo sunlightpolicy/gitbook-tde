@@ -1,8 +1,8 @@
 # How-To
 
-So you’ve got a basic idea of what Tactical Data Engagement is — but how exactly do you do it?
+So you’ve got a basic idea of what Tactical Data Engagement is — but how exactly do you do it?
 
-TDE’s four-step method makes it easy and straightforward to facilitate community use of data. 
+TDE’s four-step method makes it easy and straightforward to facilitate community use of data.
 
 ## Using the method
 
@@ -16,8 +16,5 @@ In the TDE method, you start with broad goals, then slowly limit the scope of yo
 
 \( FIGURE B \)![](https://lh6.googleusercontent.com/uoHITg3PVjMFMgMxtokDhygmo8FwK0FS0C4jvs4gUd5Z2a6BP8Mq3bS1hM9ZIiGJ7ZXVl2RFbkn6zYOgUWfdNqpemjxoySKHGTlVJPB_LIgY2dfmP-wUhVVpLEGcCn6gIo4a_d1V "Screen Shot 2017-07-18 at 7.58.03 PM.png")\(FIGURE C \)![](https://lh5.googleusercontent.com/zA_dHqe_QTjgws2yh2YSr6vZp5O2MZzFPBM__0EnES70ZER7ghHNX-qyjTx5h-K-H6mAP0gRIxAaTflUZv5uTaV9WOobiBtQIP6Iznqa-AfXXw5MRd0hxVBHuJW-joeBKK8IOUvJ "Screen Shot 2017-07-18 at 7.57.50 PM.png")\( FIGURE D \)![](https://lh5.googleusercontent.com/HXL0H-aAtKZE4JgttDxgLUYwp1RVhBHsq7cVhysu_Hhu4krFLB4_Y7daQK_HFhsUAKP9-YII6iEESi9WFx4O-JbpCFiI9DFT7FVHtjyx-Gtv9ohUWSbuscf6gyo3VqJtIie0Pi0w)
 
-This process is meant to be repeated, oriterated, so that it can be applied to new opportunities for communities to use open data. Over time and various iterations, TDE will become a critical tool for engagement and collaboration with stakeholders. It should help develop a natural environment for good resident data engagement that consistently facilitates the community use of open data with varying members of the community and across various opportunities.
-
-  
-
+This process is meant to be repeated, or _iterated_, so that it can be applied to new opportunities for communities to use open data. Over time and various iterations, TDE will become a critical tool for engagement and collaboration with stakeholders. It should help develop a natural environment for good resident data engagement that consistently facilitates the community use of open data with varying members of the community and across various opportunities.
 
