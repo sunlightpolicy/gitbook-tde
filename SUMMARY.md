@@ -8,6 +8,5 @@
   * [2. Refine opportunity statements with stakeholders](refine-opportunity-statements-with-stakeholders.md)
   * [3. Design a plan with intended users](design.md)
   * [4. Implement an intervention with actual users](implement.md)
-
-
+* [Resources](resources.md)
 
