@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Old Home](home.md)
-* [Preface](sample-section.md)
+* [Preface](preface.md)
 * [Introduction](introduction.md)
 * [How-To](how-to.md)
   * [1. Find](1-find.md)
