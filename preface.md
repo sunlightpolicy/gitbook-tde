@@ -14,15 +14,10 @@ This guide’s approach to facilitating the community use of open data is, at it
 
 We hope this guide helps communities everywhere answer those questions.
 
-
-
-
-
 > **“No other expertise can substitute for locality knowledge”**
 >
 > —**Jane Jacobs**
 
-![](https://lh5.googleusercontent.com/hr2xfL8kHUptuTRff9_2tYFaR2ExyaRjL2MZNAWzOK_8XOcPBBiVxBkpVGYkPmPAXYuhdxXHIvTDONRLatWNK_woEl5923LiUNoV3g-QxaroyGew93h_1GmbsnuguPh78PuHBOuk "Paper Gear Footer.png")**              
-**![](https://lh5.googleusercontent.com/LzQkLozVWWWu7FF6N4pnbDgZbmfstH22SrmIvMo0Fv74UYUOWPy02ii-jY4Oq5fqN6txqaxKWUWxekkNsiazagdHgZ1FJa-C_zl_ksFs-KK8_ir5Q96JeCYEWP4wwSulTkwVfmed "WhyBecomeAWhatWorksCity.png")**              
+![](https://lh5.googleusercontent.com/hr2xfL8kHUptuTRff9_2tYFaR2ExyaRjL2MZNAWzOK_8XOcPBBiVxBkpVGYkPmPAXYuhdxXHIvTDONRLatWNK_woEl5923LiUNoV3g-QxaroyGew93h_1GmbsnuguPh78PuHBOuk "Paper Gear Footer.png")**                              
 **
 
