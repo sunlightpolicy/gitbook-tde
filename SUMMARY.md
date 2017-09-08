@@ -1,7 +1,6 @@
 # Summary
 
 * [Home](README.md)
-* [Old Home](home.md)
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [How-To](how-to.md)
