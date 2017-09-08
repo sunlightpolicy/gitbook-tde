@@ -1,8 +1,9 @@
 # Summary
 
-* [Home](home.md)
+* [Home](README.md)
+* [Old Home](home.md)
 * [Preface](sample-section.md)
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 * [How-To](how-to.md)
   * [1. Find](1-find.md)
   * [2. Refine](2-refine.md)
