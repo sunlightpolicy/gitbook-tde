@@ -14,6 +14,8 @@ This guide’s approach to facilitating the community use of open data is, at it
 
 We hope this guide helps communities everywhere answer those questions.
 
+<br>
+
 > **“No other expertise can substitute for locality knowledge”**
 >
 > —**Jane Jacobs**
