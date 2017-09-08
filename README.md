@@ -8,6 +8,6 @@
 
 ### 
 
-### Facilitating impactful use of open data with communities
+### Facilitate impactful use of open data by collaborating with communities
 
 #### [&gt;&gt; Download PDF](https://www.gitbook.com/download/pdf/book/gregjd/tactical-data-engagement)
