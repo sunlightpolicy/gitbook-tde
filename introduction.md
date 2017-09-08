@@ -1,4 +1,4 @@
-# New: Introduction
+# Introduction
 
 ## What is Tactical Data Engagement?
 
