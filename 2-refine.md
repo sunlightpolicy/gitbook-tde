@@ -9,7 +9,7 @@ The second step in TDE is to refine your broad focus area into a more specific o
 
 To complete this step, you should narrow down a few promising use case scenarios with particularly strong community partner support, strong resident interest, or obviously relevant gaps in information or data. Hearing about residents’ data use scenarios and incorporating their thoughts into what you determine are “promising” opportunities will help residents’ experiences matter in ultimately crafting a TDE intervention. Being as detailed as possible in this stage ensures that when you craft an intervention to address a single use case later on, the result will have dedicated end users, who you identified in this step, and will meet their real needs.
 
-### Tactics to help you _refine use cases_
+### Tactics to help you _refine use cases_:
 
 | **TACTIC** | **DESCRIPTION** |
 | :--- | :--- |
