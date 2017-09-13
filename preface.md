@@ -1,6 +1,6 @@
 # Preface
 
-Since the beginning of the What Works Cities project, the Sunlight Foundation \(Sunlight\) has worked to expand access to public data nationwide. We have helped nearly 40 U.S. cities enact open data policies. We have also tracked and analyzed open data policies in over 100 cities, counties, and states. Sunlight’s efforts have fostered democratic access to government data across the nation.
+Since the beginning of the What Works Cities initiative, the Sunlight Foundation \(Sunlight\) has worked to expand access to public data nationwide. We have helped nearly 40 U.S. cities enact open data policies. We have also tracked and analyzed open data policies in over 100 cities, counties, and states. Sunlight’s efforts have fostered democratic access to government data across the nation.
 
 Cities are now going beyond making data simply accessible. To fully engender openness and to get the most out of their open data programs, governments need to build upon this infrastructure of access and work with residents to use data to solve community challenges.
 
