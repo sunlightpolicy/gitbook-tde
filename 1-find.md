@@ -21,7 +21,7 @@ The first step in TDE is listening to your community’s priorities and concerns
 
 As you listen to and observe the community’s needs, identify opportunities where public data or information would empower residents to better understand, address, or collaborate to solve their concerns. Observe whether a majority of promising opportunities for the use of open data are clustered around a single issue or focus area. After listening to a variety of challenges that might require the community use of open data, choose a focus area by aligning those opportunities with the city’s on-going strategic priorities as well as with the cities information holdings.
 
-### Tactics to help you _find a focus area_
+### Tactics to help you _find a focus area_:
 
 | **TACTIC** | **DESCRIPTION** |
 | :--- | :--- |
