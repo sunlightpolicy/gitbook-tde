@@ -8,9 +8,8 @@
   * [2. Refine](2-refine.md)
   * [3. Design](3-design.md)
   * [4. Implement](4-implement.md)
+  * [You Did It!](you-did-it.md)
 * [Resources](resources.md)
   * [Criteria for 'Find' tactics](criteria-for-find-tactics.md)
   * [Worksheet to 'Refine' an opportunity](worksheet-to-refine-an-opportunity.md)
-
-
 
