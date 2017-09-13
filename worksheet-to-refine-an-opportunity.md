@@ -4,11 +4,11 @@
 
 <br>
 
-This tool is an activity intended for city or other government staff looking to do an internal brainstorming around potentially impactful TDE opportunities. This worksheet will help not substitute for actually carrying out the refining step of the TDE method. Instead, it will help you self-assess what doing this process “for real” might look like in your city. For each step below, use the discussion questions to think through the details of your responses to each section of the worksheet on Page 5.
+This tool is an activity intended for city or other government staff looking to do an internal brainstorming around potentially impactful TDE opportunities. This worksheet will help not substitute for actually carrying out the refining step of the TDE method. Instead, it will help you self-assess what doing this process “for real” might look like in your city. For each step below, use the discussion questions to think through the details of your responses to each section of the outline at the end of this worksheet.
 
-1. Choose a hypothetical focus area to move forward with the brainstorming process, or apply your chosen focus area.
+#### 1. Choose a hypothetical focus area to move forward with the brainstorming process, or apply your chosen focus area.
 
-2. Identify data you have or could collect that’s relevant to your focus area.
+#### 2. Identify data you have or could collect that’s relevant to your focus area.
 
 What data do you currently collect?
 
@@ -20,7 +20,7 @@ Which department/s own and/or maintain this data?
 | :--- |
 
 
-1. Identify users in the community who frequently request or need data.
+#### 3. Identify users in the community who frequently request or need data.
 
 Who are current and potential external users of the city data identified above?
 
@@ -32,7 +32,7 @@ How can your data supply support community members/orgs’ work?
 | :--- |
 
 
-1. How have you met demand for data in the past?
+#### 4. How have you met demand for data in the past?
 
 Does your city fill requests for this data through a public records request or similar system? If not, why?
 
@@ -46,7 +46,7 @@ What gaps exist in meeting the external demand for this data?
 | :--- |
 
 
-1. How can you refine your understanding of your focus area?
+#### 5. How can you refine your understanding of your focus area?
 
 Which refining tactics \(below\) would you use to engage potential stakeholders in more specific conversations about your focus area?
 
@@ -58,7 +58,7 @@ What context can stakeholders provide that might help you better understand your
 | :--- |
 
 
-1. Identify potential next steps
+#### 6. Identify potential next steps
 
 Which external partners could help implement the tactics identified above?
 
@@ -72,7 +72,7 @@ Could your city pursue opportunities to facilitate re-use based on the feedback 
 | :--- |
 
 
-1. What are the potential impacts of addressing your refined opportunities?
+#### 7. What are the potential impacts of addressing your refined opportunities?
 
 \(Note: Impacts will be clearer once you talk to residents to narrow down a focus area, specific opportunity, and intervention that the city could implement to facilitate better open data use. This assignment is speculative.\)
 
@@ -80,7 +80,9 @@ How could city officials and staff benefit from following up on data users’ fe
 
 Imagine how community members might benefit from the city’s help with data to support those potential applications.
 
-| Use this template fill out a pitch at the bottom of your action plan: My city’s communities could use information from city hall to address\[FOCUS AREA\]which is important for\[IMPACT\]. When I go back to my city, I can use\[REFINING TACTIC\]to hear ideas and concerns from\[DATA REQUESTERS\]and identify specific opportunities for them to use\[MY DATA SUPPLY\]. Next, as the action phase of my city’s Tactical Data Engagement effort, my city will carry out this plan to frame a TDE opportunity by\[NEXT STEPS\], with adjustments depending on the feedback collected in the framing stage. |
+#### Use this template fill out a pitch at the bottom of your action plan:
+
+| My city’s communities could use information from city hall to address \[FOCUS AREA\], which is important for \[IMPACT\]. When I go back to my city, I can use \[REFINING TACTIC\] to hear ideas and concerns from \[DATA REQUESTERS\] and identify specific opportunities for them to use \[MY DATA SUPPLY\]. Next, as the action phase of my city’s Tactical Data Engagement effort, my city will carry out this plan to frame a TDE opportunity by \[NEXT STEPS\], with adjustments depending on the feedback collected in the framing stage. |
 | :--- |
 
 
@@ -104,7 +106,7 @@ Ingredients to help me identify TDE opportunities in my city:
 
 | My Data Supply | Data Requesters | Past Activities | Tactic\(s\) | Next Steps |
 | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
+| <br><br><br><br><br><br> | <br><br><br><br><br><br> | <br><br><br><br><br><br> | <br><br><br><br><br><br> | <br><br><br><br><br><br> |
 
 My Tactical Data Engagement Pitch:
 
