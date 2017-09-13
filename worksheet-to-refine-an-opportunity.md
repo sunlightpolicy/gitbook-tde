@@ -1,12 +1,14 @@
 # Refining an opportunity for Tactical Data Engagement
 
-## A self-assessment tool and worksheet
+#### A self-assessment tool and worksheet
+
+<br>
 
 This tool is an activity intended for city or other government staff looking to do an internal brainstorming around potentially impactful TDE opportunities. This worksheet will help not substitute for actually carrying out the refining step of the TDE method. Instead, it will help you self-assess what doing this process “for real” might look like in your city. For each step below, use the discussion questions to think through the details of your responses to each section of the worksheet on Page 5.
 
 1. Choose a hypothetical focus area to move forward with the brainstorming process, or apply your chosen focus area.
 
-1. Identify data you have or could collect that’s relevant to your focus area.
+2. Identify data you have or could collect that’s relevant to your focus area.
 
 What data do you currently collect?
 
@@ -82,7 +84,7 @@ Imagine how community members might benefit from the city’s help with data to 
 | :--- |
 
 
-## Refining Tactics
+## Refining tactics
 
 Simple, lightweight tactics for engaging potential stakeholders in specific conversations about issues and opportunities for open data use in your focus area.
 
@@ -103,8 +105,6 @@ Ingredients to help me identify TDE opportunities in my city:
 | My Data Supply | Data Requesters | Past Activities | Tactic\(s\) | Next Steps |
 | :--- | :--- | :--- | :--- | :--- |
 |  |  |  |  |  |
-
-
 
 My Tactical Data Engagement Pitch:
 
