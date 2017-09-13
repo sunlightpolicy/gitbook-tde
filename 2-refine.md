@@ -1,4 +1,4 @@
-# 2. _Refine_ opportunity statements with stakeholders.![](https://lh6.googleusercontent.com/l_9_gHuhAOrmD3Rv3k9UkbfdtbDsIeI0mcR4MJPf2juUCla-Mr6vXRd7fdAUmXq3OyOp03tjZumfnHJhQWNPTPWHjenDtILMLKdJaEhqCfdwiCx_GZxXt0STeERPIwEPFsyBzj2G "Screen Shot 2017-07-18 at 5.19.16 PM.png")
+# 2. _Refine_ use cases with stakeholders.![](https://lh6.googleusercontent.com/l_9_gHuhAOrmD3Rv3k9UkbfdtbDsIeI0mcR4MJPf2juUCla-Mr6vXRd7fdAUmXq3OyOp03tjZumfnHJhQWNPTPWHjenDtILMLKdJaEhqCfdwiCx_GZxXt0STeERPIwEPFsyBzj2G "Screen Shot 2017-07-18 at 5.19.16 PM.png")
 
 * **THE ACTION:** Narrow and segment your focus area down to detailed use case scenarios, complete with user stories and personas that expose opportunities for the use of open data.
 * **THE ENGAGEMENT:** Collect context and information from specific stakeholders via direct conversations or interviews.
@@ -8,8 +8,6 @@
 The second step in TDE is to refine your broad focus area into a more specific opportunity or “use case” with the help of people who have a deeper understanding of your chosen issue. “Use case” is a term meant to describe how data might be used by a certain user to solve a particular goal. The residents identified in these use cases will have “user personas” and you should take this time to develop your understanding of their stories. More than simply a problem statement, a use case scenario should dive deep into understanding a stakeholder who could use open data to address their concern within your focus area. In crafting various use case scenarios, remember that residents are experts in their own neighborhoods, communities, and issue areas, and listening to their knowledge will help refine the details around specific use cases in your focus area.
 
 To complete this step, you should narrow down a few promising use case scenarios with particularly strong community partner support, strong resident interest, or obviously relevant gaps in information or data. Hearing about residents’ data use scenarios and incorporating their thoughts into what you determine are “promising” opportunities will help residents’ experiences matter in ultimately crafting a TDE intervention. Being as detailed as possible in this stage ensures that when you craft an intervention to address a single use case later on, the result will have dedicated end users, who you identified in this step, and will meet their real needs.
-
-
 
 ### Tactics to help you _refine use cases_
 
