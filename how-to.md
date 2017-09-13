@@ -2,7 +2,7 @@
 
 
 
-_So you’ve got a basic idea of what Tactical Data Engagement is — but how exactly do you use it? Here’s an overview of the four-step TDE method. _
+_So you’ve got a basic idea of what Tactical Data Engagement is — but how exactly do you use it? Here’s an overview of the four-step TDE method. _
 
 ## Using the method
 
@@ -10,24 +10,13 @@ TDE’s steps start big with a broad focus area and community of collaborators. 
 
 FIGURE A:
 
-![](/assets/Capture d’écran 2017-09-13 à 5.49.07 PM.png)  
+![](/assets/tde-grid-funnel.png)
 
-
-The Tactical Data Engagement process
+## The Tactical Data Engagement process
 
 To break down how each step builds toward the final goal, we mapped out each step’s four most important components: the action, the mode of engagement, the collaborators, and the result..
 
-In the TDE method, you start with broad actions and goals, then slowly hone the scope of your work by checking in and engaging with collaborators. See A to visualize how narrowing down each of the four main components, the action, the collaborators, the mode of engagement, and the result, can bring you to a refined finished product that addresses the specific data needs of your community. TDE ensures that your end product is both impactful, thanks to consistent input from the community, but also lightweight and implementable, thanks to limited scope.
+In the TDE method, you start with broad actions and goals, then slowly hone the scope of your work by checking in and engaging with collaborators. See Figure A to visualize how narrowing down each of the four main components, the action, the collaborators, the mode of engagement, and the result, can bring you to a refined finished product that addresses the specific data needs of your community. TDE ensures that your end product is both impactful, thanks to consistent input from the community, but also lightweight and implementable, thanks to limited scope.
 
-This process is meant to be repeated, or
-
-iterated
-
-, so that it can be applied to new opportunities for communities to use open data. Over time and various iterations, TDE can help local leaders develop a more open culture and consistently facilitate a community
-
-’
-
-s use of open data with varying members of the community and across various opportunities.
-
-
+This process is meant to be repeated, or _iterated_, so that it can be applied to new opportunities for communities to use open data. Over time and various iterations, TDE can help local leaders develop a more open culture and consistently facilitate a community’s use of open data with varying members of the community and across various opportunities.
 
