@@ -1,3 +1,6 @@
 {
-    "plugins": ["block-align"]
+    "plugins": ["block-align"],
+    "pdf": {
+        "fontFamily": "Helvetica"
+    }
 }
