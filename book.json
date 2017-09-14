@@ -1,6 +1,7 @@
 {
     "plugins": ["block-align"],
     "pdf": {
-        "fontFamily": "Helvetica"
+        "fontFamily": "Helvetica Neue",
+        "paperSize": "letter"
     }
 }
