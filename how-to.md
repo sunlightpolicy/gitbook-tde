@@ -8,7 +8,7 @@ _So you’ve got a basic idea of what Tactical Data Engagement is — but how ex
 
 TDE’s steps start big with a broad focus area and community of collaborators. Step-by-step, you’ll narrow down your scope to a tangible intervention within your capacity to implement, and an increasingly specific group of collaborators with whom to engage. The result will be a finished project \(an intervention\) that helps actual users from the community leverage open data for tangible impact. Figure A, below, provides an overview of the four steps this process will guide you through, demonstrating the narrowing effect of each step.
 
-FIGURE A:
+{% center %}FIGURE A:{% endcenter %}
 
 ![](/assets/tde-grid-funnel.png)
 
