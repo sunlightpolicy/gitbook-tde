@@ -1,8 +1,14 @@
 {
-    "plugins": ["block-align", "ga"],
+    "plugins": ["block-align", "ga", "download-pdf-link"],
     "pluginsConfig": {
         "ga": {
             "token": "UA-48789618-4"
+        },
+        "download-pdf-link": {
+            "base": "https://www.gitbook.com/book/sunlight-foundation/tactical-data-engagement/",
+            "label": {
+                "en": "Download a PDF of only this page"
+            }
         }
     },
     "pdf": {
