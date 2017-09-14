@@ -1,5 +1,10 @@
 {
-    "plugins": ["block-align"],
+    "plugins": ["block-align", "ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-48789618-4"
+        }
+    },
     "pdf": {
         "fontFamily": "Helvetica Neue",
         "paperSize": "letter"
