@@ -12,8 +12,6 @@
 ### [&gt;&gt; Download PDF](https://www.gitbook.com/download/pdf/book/gregjd/tactical-data-engagement) 
 {% endcenter %}
 
----
-
 <br >
 ![](/assets/wwc-resource-stamp.png)
 

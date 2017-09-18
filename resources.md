@@ -1,6 +1,6 @@
 # Additional Resources
 
-## Real-time improvements to the TDE process
+### Real-time improvements to the TDE process
 
 _The success of the TDE method relies on documenting and improving the TDE method in cities across the country._
 
