@@ -4,13 +4,13 @@
 
 # A Guide to Tactical Data Engagement
 
-## Version 1.0
+### _Version 1.0_
 
-### 
+### Facilitate the proactive use of open data by collaborating with communities
 
-### Facilitate impactful use of open data by collaborating with communities
+### {% center %} [&gt;&gt; Download PDF](https://www.gitbook.com/download/pdf/book/gregjd/tactical-data-engagement) {% endcenter %}
 
-#### [&gt;&gt; Download PDF](https://www.gitbook.com/download/pdf/book/gregjd/tactical-data-engagement)
+
 
 
 
