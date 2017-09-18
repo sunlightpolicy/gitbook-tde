@@ -1,5 +1,3 @@
-# ![](/assets/tde-funnel-grid-notext.png)
-
 # You Did It!
 
 Congratulations! If you made it this far, you have successfully completed the Tactical Data Engagement process. You found a focus area by observing community needs; refined the opportunities for engagement by interviewing key stakeholders; designed a plan to act on one specific opportunity together with target users; and then implemented that plan to create a data intervention.
