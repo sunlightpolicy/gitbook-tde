@@ -1,21 +1,9 @@
 # 1. _Find_ a focus area by observing the community.![](https://lh5.googleusercontent.com/iTa5pxWgGBzU4vN-fEvJgV2yet4MoMyEaCNpJvYi-qgZPXz_ZWfLuhQVkdWs1Ny5yUy-P88OYcMKt6-nWaBqga1lbQcBfmw29lB7cpeZ5i9Raa7koamw90AD7ULBFyYDudB768mq "Screen Shot 2017-07-18 at 5.19.03 PM.png")
 
-| <br>THE ACTION: Identify a general focus area with potential opportunities for the community use of open data.<br><br>THE ENGAGEMENT: Observe, listen to, and analyze community needs.<br><br>THE COLLABORATORS: A broad group of community members who can illuminate potentially impactful focus areas.<br><br>THE RESULT: A focus area where community voices and needs suggest impactful opportunities for the community use of open data.<br><br> |
-| :--- |
-
-
 * **THE ACTION:** Identify a general focus area with potential opportunities for the community use of open data.
 * **THE ENGAGEMENT:** Observe, listen to, and analyze community needs.
 * **THE COLLABORATORS:** A broad group of community members who can illuminate potentially impactful focus areas.
 * **THE RESULT:** A focus area where community voices and needs suggest impactful opportunities for the community use of open data.
-
-> **THE ACTION:** Identify a general focus area with potential opportunities for the community use of open data.
->
-> **THE ENGAGEMENT:** Observe, listen to, and analyze community needs.
->
-> **THE COLLABORATORS:** A broad group of community members who can illuminate potentially impactful focus areas.
->
-> **THE RESULT:** A focus area where community voices and needs suggest impactful opportunities for the community use of open data.
 
 The first step in TDE is listening to your community’s priorities and concerns, and identifying the issue areas where open data might help. You may already be listening to residents’ concerns and needs by conducting surveys, maintaining relationships with trusted community groups, or regularly joining community meetings. Use each opportunity you have to collect and analyze broad community interest in open data. This is an opportunity to pay attention to any communities that are missing or excluded from conversations about public data and decision-making.
 
