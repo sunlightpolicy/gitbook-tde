@@ -1,4 +1,4 @@
-# Step 1: _Find_ ![](https://lh5.googleusercontent.com/iTa5pxWgGBzU4vN-fEvJgV2yet4MoMyEaCNpJvYi-qgZPXz_ZWfLuhQVkdWs1Ny5yUy-P88OYcMKt6-nWaBqga1lbQcBfmw29lB7cpeZ5i9Raa7koamw90AD7ULBFyYDudB768mq "Screen Shot 2017-07-18 at 5.19.03 PM.png")
+# Step 1: Find![](/assets/Capture d’écran 2017-09-18 à 5.44.37 PM.png)
 
 * **THE ACTION:** Identify a general focus area with potential opportunities for the community use of open data.
 * **THE ENGAGEMENT:** Observe, listen to, and analyze community needs.
