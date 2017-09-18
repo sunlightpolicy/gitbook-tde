@@ -1,4 +1,4 @@
-# Step 1: Find![](/assets/Capture d’écran 2017-09-18 à 5.44.37 PM.png)
+# Step 1: Find![](/assets/tde-1.png)
 
 * **THE ACTION:** Identify a general focus area with potential opportunities for the community use of open data.
 * **THE ENGAGEMENT:** Observe, listen to, and analyze community needs.
