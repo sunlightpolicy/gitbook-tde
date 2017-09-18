@@ -1,4 +1,4 @@
-# Step 2: _Refine_![](/assets/tde-2.png)
+# Step 2: Refine![](/assets/tde-2.png)
 
 * **THE ACTION:** Narrow and segment your focus area down to detailed use case scenarios, complete with user stories and personas that expose opportunities for the use of open data.
 * **THE ENGAGEMENT:** Collect context and information from specific stakeholders via direct conversations or interviews.
