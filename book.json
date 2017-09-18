@@ -5,7 +5,7 @@
             "token": "UA-48789618-4"
         },
         "download-pdf-link": {
-            "base": "https://www.gitbook.com/book/sunlight-foundation/tactical-data-engagement/",
+            "base": "https://www.gitbook.com/download/pdf/book/sunlight-foundation/tactical-data-engagement/",
             "label": {
                 "en": "Download a PDF of only this page"
             }
