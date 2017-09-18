@@ -1,4 +1,4 @@
-# Step 3: Design![](/assets/Capture d’écran 2017-09-18 à 5.48.44 PM.png)
+# Step 3: Design![](/assets/tde-3.png)
 
 * **THE ACTION:** Select a single use case, and draft a plan for an intervention to support that use case.
 * **THE ENGAGEMENT:** Share a draft plan and ask for feedback through multiple avenues.
