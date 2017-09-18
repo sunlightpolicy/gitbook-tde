@@ -4,6 +4,8 @@
 
 This tool is an activity intended for city or other government staff looking to do an internal brainstorming around potentially impactful TDE opportunities. This worksheet will help not substitute for actually carrying out the refining step of the TDE method. Instead, it will help you self-assess what doing this process “for real” might look like in your city. For each step below, use the discussion questions to think through the details of your responses to each section of the outline at the end of this worksheet.
 
+Having trouble with this page? Use another version in Google Docs [here](https://drive.google.com/open?id=1lNWfq1h6Sctu8107eL3Y5BIXGmkTm6w2lOb2n8SdsjI).
+
 ##### 1. Choose a hypothetical focus area to move forward with the brainstorming process, or apply your chosen focus area.
 ##### 2. Identify data you have or could collect that’s relevant to your focus area.
 
