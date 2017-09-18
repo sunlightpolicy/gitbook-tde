@@ -1,4 +1,4 @@
-# Step 3: _Design_![](https://lh6.googleusercontent.com/x6Ar9x3bVpSO5rTJGyJ4D3d_MgLsrOpB0RDsMSHvudR5dpmfr0h_kU6gzXxcnwPSVd1QyATigQOnajeo8P1vyWvtC1t3DNJXfl6rm93bQW81B6UhY2caCCD-wTk0no8mqsw9TLCX "Screen Shot 2017-07-18 at 5.19.26 PM.png")
+# Step 3: Design![](/assets/Capture d’écran 2017-09-18 à 5.48.44 PM.png)
 
 * **THE ACTION:** Select a single use case, and draft a plan for an intervention to support that use case.
 * **THE ENGAGEMENT:** Share a draft plan and ask for feedback through multiple avenues.
