@@ -12,7 +12,6 @@
         }
     },
     "pdf": {
-        "fontFamily": "Helvetica Neue",
         "paperSize": "letter"
     }
 }
