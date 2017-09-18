@@ -1,4 +1,4 @@
-# 4. _Implement_ an intervention by collaborating with actual users.![](https://lh5.googleusercontent.com/_PEDfdxFsd38pbpiHWSQtBgOCJmqiZNVv-ACAEuhvviwjNKcOAg28RMzpdda7APfasWqEkBt0ii4xvu4oC_4vHgOdCI8s7q3ZyquZyKEZvX2Xp4O6oyWm7WZv6Jcd30xDb_dYdi7 "Screen Shot 2017-07-18 at 5.19.34 PM.png")
+# Step 4: _Implement_![](https://lh5.googleusercontent.com/_PEDfdxFsd38pbpiHWSQtBgOCJmqiZNVv-ACAEuhvviwjNKcOAg28RMzpdda7APfasWqEkBt0ii4xvu4oC_4vHgOdCI8s7q3ZyquZyKEZvX2Xp4O6oyWm7WZv6Jcd30xDb_dYdi7 "Screen Shot 2017-07-18 at 5.19.34 PM.png")
 
 * **THE ACTION:** Execute your plan to carry out an intervention that supports the use case opportunity you outlined for better open data use in the community.
 * **THE ENGAGEMENT:** Work with actual users to ensure the intervention meets their needs.
