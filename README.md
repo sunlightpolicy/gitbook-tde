@@ -9,7 +9,7 @@
 
 ### Facilitate the impactful use of open data by collaborating with communities
 {% center %} 
-### [» Download PDF](https://www.gitbook.com/download/pdf/book/gregjd/tactical-data-engagement) 
+### [» Download PDF](https://www.gitbook.com/download/pdf/book/sunlight-foundation/tactical-data-engagement) 
 {% endcenter %}
 
 ---
