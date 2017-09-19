@@ -4,7 +4,7 @@ Since the beginning of the What Works Cities initiative, the Sunlight Foundation
 
 Cities are now going beyond making data simply accessible. To fully engender openness and to get the most out of their open data programs, governments need to build upon this infrastructure of access and work with residents to use data to solve community challenges.
 
-_**Tactical Data Engagement**_** is designed to help cities go beyond open data policy and even open data portals, to facilitate opportunities for the community use of open data to improve residents’ lives.**
+**Tactical Data Engagement is designed to help cities go beyond open data policy and even open data portals, to facilitate opportunities for the community use of open data to improve residents’ lives.**
 
 Sunlight believes that [information is power](https://sunlightfoundation.com/about/) and that all residents of a democracy have the the right to power through the access and use of public information. Community leaders need public data and information to build an evidence base for addressing local challenges. Governments should capitalize on the opportunity to facilitate community problem solving through the use of open data.
 
