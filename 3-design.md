@@ -11,7 +11,7 @@ Narrow down which specific stakeholders will be the intended users of relevant d
 
 Planning alongside the your intended users entails either collaboratively drafting a plan or soliciting feedback on a draft plan and incorporating responses. Collaborative planning with the intended data users in your community is essential for ensuring that planned interventions address exactly what data users need and account for details of implementation, for example, ensuring that the community agrees on who should house the project or sustain it once the government’s role is complete. A plan that hasn’t been reviewed by residents is less likely to be effective.
 
-"**How formal does my plan need to be?"** It depends on your context. In a community that has already had lots of conversations about open data and shared goals, a short back and forth over email or an in-person conversation at a community meeting might be enough. In a community where there is less common understanding, you will probably need to do more work building consensus. The idea of tactical data engagement is to focus on a specific end goal — use your judgment about how to best achieve that.
+"**How formal does my plan need to be?"** It depends on your context. In a community that has already had lots of conversations about open data and shared goals, a short back and forth over email or an in-person conversation at a community meeting might be enough. In a community where there is less common understanding, you will probably need to do more work building consensus. The idea of Tactical Data Engagement is to focus on a specific end goal — use your judgment about how to best achieve that.
 
 ### Tactics to help you _design a plan_:
 
