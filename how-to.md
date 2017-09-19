@@ -10,7 +10,7 @@ TDE’s steps start big with a broad focus area and community of collaborators. 
 
 {% center %}FIGURE A:{% endcenter %}
 
-![](/assets/tde-grid-funnel.png)
+![](/assets/tde-funnel-grid.png)
 
 ## The Tactical Data Engagement process
 
