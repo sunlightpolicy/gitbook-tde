@@ -6,7 +6,7 @@ Cities are now going beyond making data simply accessible. To fully engender ope
 
 **Tactical Data Engagement is designed to help cities go beyond open data policy and even open data portals, to facilitate opportunities for the community use of open data to improve residents’ lives.**
 
-Sunlight believes that [information is power](https://sunlightfoundation.com/about/) and that all residents of a democracy have the the right to power through the access and use of public information. Community leaders need public data and information to build an evidence base for addressing local challenges. Governments should capitalize on the opportunity to facilitate community problem solving through the use of open data.
+Sunlight believes that [information is power](https://sunlightfoundation.com/about/) and that all residents of a democracy have the right to power through the access and use of public information. Community leaders need public data and information to build an evidence base for addressing local challenges. Governments should capitalize on the opportunity to facilitate community problem solving through the use of open data.
 
 Our vision is that city halls and other governments will use Tactical Data Engagement to facilitate the use of open data in all communities. In particular, we hope city leaders will use this framework to take action in marginalized communities that often go overlooked as audiences for civic technology, open data, and transparency. Tactical Data Engagement presents a uniquely valuable opportunity for city halls to empower residents from systemically disenfranchised communities who need open data and public information to address local challenges.
 
